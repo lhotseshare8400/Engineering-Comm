@@ -48,6 +48,6 @@ Link: [Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
 
-![Alt text](/blob/master/test1/git_clone.png "Optional title")
+![Alt text](/blob/main/test1/git_clone.png "Optional title")
 
 <img src="/github_fork_16.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
