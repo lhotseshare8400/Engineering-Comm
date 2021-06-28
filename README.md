@@ -131,3 +131,8 @@ Link: [안동대학교][andonglink]
 [참고 사이트]
 
 https://about.gitlab.com/handbook/markdown-guide/
+
+[Link]
+
+[Text to display][identifier] will display a link.
+
