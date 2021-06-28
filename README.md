@@ -42,12 +42,17 @@
        + 4단계
 
 
-[들여 쓰기]
+[들여 쓰기 - 1줄 띄우기]
 
 This is a normal paragraph:
 
     This is a code block.
     
+end code block
+
+[들여 쓰기 - 1줄 띄우지 않기]
+This is a normal paragraph:
+    This is a code block.
 end code block
 
 
