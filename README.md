@@ -142,3 +142,8 @@ https://about.gitlab.com/handbook/markdown-guide/
 [This link] will do the same as well. It works as the identifier itself.
 
 [this link]:https://github.com/lhotseshare8400/Engineering-Comm/blob/main/2.6_2_8-queen.py
+
+* github로 프로필 작성 참고 사이트: [github로 취업하기][link]
+[link]:https://sujinlee.me/professional-github/
+
+
