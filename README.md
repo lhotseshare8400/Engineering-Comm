@@ -135,7 +135,7 @@ https://about.gitlab.com/handbook/markdown-guide/
 
 [Link]
 
-[Text to display][identifier] will display a link.
+[Andong Univ.][identifier] will display a link.
 
 [identifier]:https://www.andong.ac.kr/main/index.do
 
