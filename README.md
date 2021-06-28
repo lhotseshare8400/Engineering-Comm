@@ -138,3 +138,7 @@ https://about.gitlab.com/handbook/markdown-guide/
 [Text to display][identifier] will display a link.
 
 [identifier]:https://github.com/lhotseshare8400/Engineering-Comm/blob/main/1.14.py
+
+[This link] will do the same as well. It works as the identifier itself.
+
+[this link]:https://github.com/lhotseshare8400/Engineering-Comm/blob/main/2.6_2_8-queen.py
