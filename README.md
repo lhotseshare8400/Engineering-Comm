@@ -112,9 +112,9 @@ This is a normal paragraph:
     This is a code block.
 end code block.
 
-Link: [Google][googlelink]
+Link: [안동대학교][andonglink]
 
-[googlelink]: https://google.com "Go google"
+[andonglink]: https://www.andong.ac.kr/main/index.do "Go andong"
 
 ![Alt text](https://user-images.githubusercontent.com/79644567/123567063-4a1bd300-d7fc-11eb-9f96-9400608c9db1.PNG "Optional title")
 
