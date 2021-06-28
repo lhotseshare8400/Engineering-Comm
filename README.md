@@ -126,3 +126,8 @@ Link: [안동대학교][andonglink]
 | 1 | 홍길동 | 23 | 4/2 |
 | 2 | *짜장형* | 32 | 2/23|
 | 3 | __뿡뿡이__ | 51 | ~~9/13~~ |
+
+
+[참고 사이트]
+
+https://about.gitlab.com/handbook/markdown-guide/
