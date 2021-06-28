@@ -137,7 +137,7 @@ https://about.gitlab.com/handbook/markdown-guide/
 
 [Text to display][identifier] will display a link.
 
-[identifier]:https://github.com/lhotseshare8400/Engineering-Comm/blob/main/1.14.py
+[identifier]:https://www.andong.ac.kr/main/index.do
 
 [This link] will do the same as well. It works as the identifier itself.
 
