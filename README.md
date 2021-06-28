@@ -120,14 +120,6 @@ Link: [안동대학교][andonglink]
 
 <img src="https://user-images.githubusercontent.com/79644567/123567063-4a1bd300-d7fc-11eb-9f96-9400608c9db1.PNG" width="320px" height="240px" title="px(픽셀) 크기 설정" alt="andong Univ"></img><br/>
 
-[줄바꿈]
----
-
-___
-
-***
-
-
 
 | | 이름 | 나이 | 생일 |
 | :-: | :-: | -: | :- |
